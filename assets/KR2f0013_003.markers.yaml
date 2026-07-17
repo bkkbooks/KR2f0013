@@ -1053,6 +1053,7 @@ markers:
       ', id: KR2f0013_krp_003-bkkkrnewl231}
   - {type: line-break, offset: 3871, content: '', id: KR2f0013_WYG_003-13b07}
   - {type: punctuation, offset: 3876, content: (, id: KR2f0013_krp_003-bkkpn1}
+  - {type: voice, offset: 3876, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3877, content: /, id: KR2f0013_krp_003-bkkpn2}
   - {type: punctuation, offset: 3877, content: ), id: KR2f0013_krp_003-bkkpn3}
   - {type: substitution, offset: 3891, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19870}}
@@ -1120,6 +1121,7 @@ markers:
   - {type: line-break, offset: 4081, content: '', id: KR2f0013_WYG_003-14b02}
   - {type: substitution, offset: 4087, original: 傜, replacement: 徭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20456}}
   - {type: punctuation, offset: 4091, content: (, id: KR2f0013_krp_003-bkkpn4}
+  - {type: voice, offset: 4091, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 4092, content: /, id: KR2f0013_krp_003-bkkpn5}
   - {type: punctuation, offset: 4092, content: ), id: KR2f0013_krp_003-bkkpn6}
   - {type: 'kr:newline', offset: 4102, content: '
@@ -1257,6 +1259,7 @@ markers:
       ', id: KR2f0013_krp_003-bkkkrnewl274}
   - {type: line-break, offset: 4578, content: '', id: KR2f0013_WYG_003-16a05}
   - {type: punctuation, offset: 4581, content: (, id: KR2f0013_krp_003-bkkpn7}
+  - {type: voice, offset: 4581, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 4582, content: /, id: KR2f0013_krp_003-bkkpn8}
   - {type: punctuation, offset: 4582, content: ), id: KR2f0013_krp_003-bkkpn9}
   - {type: substitution, offset: 4585, original: 倖, replacement: 幸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16650}}
@@ -1748,4 +1751,4 @@ markers:
 
       ', id: KR2f0013_krp_003-bkkkrnewl377}
   back: []
-hash: sha256:f335eb9b7735a351d895aae3d9f32d78a6da266497cce0d880c37cd13347ba13
+hash: sha256:80c91445ba388ef3e40f70be89164aa13f0b390461d33c73a19ff99547ebf17a
